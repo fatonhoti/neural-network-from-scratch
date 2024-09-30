@@ -18,6 +18,8 @@ A few useful resources I used to learn.
 [THE PERCEPTRON](https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf)
 
 ### Docs
+[PyTorch docs](https://pytorch.org/docs/stable/index.html)
+
 [Numpy docs](https://numpy.org/doc/stable/)
 
 [Matplotlib.pyplot docs](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html)
